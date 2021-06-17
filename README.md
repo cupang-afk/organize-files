@@ -15,4 +15,4 @@ auto organize file by file extension (zip, rar, png, jpg, pdf etc...) created in
 - Mac Os
 
 ### TODO
-- [ ] Create category.yaml to make it easier to use to **self** add file-by-type category groupings/lists 
+- [ ] Create category.yaml to make it easier to **self** add file-by-type category groupings/lists 
