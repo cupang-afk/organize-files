@@ -6,8 +6,8 @@ auto organize file by file extension (zip, rar, png, jpg, pdf etc...) created in
 * Move file from **Target folder** to **Save folder** 
 
 ### Usage
-* `python ORGANIZE.py`
-* Follow the instruction
+1 `python ORGANIZE.py`
+2 Follow the instruction
 
 ### Supported
 - Windows
