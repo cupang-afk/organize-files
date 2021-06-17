@@ -1,2 +1,18 @@
 # organize-files
-auto organize file by file type (zip, rar, png, jpg, pdf etc...) created in python
+auto organize file by file extension (zip, rar, png, jpg, pdf etc...) created in python
+
+### What this script do ?
+* Create category folder based on file extension (Compressed, Documents, Audio, Video etc) in **Save folder**
+* Move file from **Target folder** to **Save folder** 
+
+### Usage
+* `python ORGANIZE.py`
+* Follow the instruction
+
+### Supported
+- Windows
+- Linux
+- Mac Os
+
+### TODO
+- [ ] Create category.yaml to make it easier to use to **self** add file-by-type category groupings/lists 
